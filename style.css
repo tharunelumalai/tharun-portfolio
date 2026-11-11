@@ -3,7 +3,7 @@ body{
 }
 
 .banner{
-  background-image: url(Neon\ Code\ Workspace\ Banner.png);
+  background-image: url(.Banner\ img.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
