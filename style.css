@@ -1,0 +1,15 @@
+body{
+  font-family: 'Poppins',sans-serif;
+}
+
+.banner{
+  background-image: url(Neon\ Code\ Workspace\ Banner.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 250px 0;
+}
+
+.skills-padding{
+  padding: 100px 0;
+}
